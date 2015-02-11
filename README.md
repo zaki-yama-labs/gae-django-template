@@ -19,7 +19,7 @@ Google App Engine in Python with Django 環境でアプリケーション開発�
 
 ### Licence
 
-[MIT](https://github.com/zaki-yama/gae-django-scaffold/blob/master/LICENCE)
+[MIT](https://github.com/zaki-yama/gae-django-scaffold/blob/master/LICENSE)
 
 ### Author
 
