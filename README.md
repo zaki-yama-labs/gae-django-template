@@ -23,4 +23,4 @@ Google App Engine in Python with Django 環境でアプリケーション開発�
 
 ### Author
 
-[zaki-yama](https://github.com/zaki-yama) ([blog(Japanese)](http://dackdive.hateblo.jp/)
+[zaki-yama](https://github.com/zaki-yama) ( [blog(Japanese)](http://dackdive.hateblo.jp/) )
