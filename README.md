@@ -1,4 +1,4 @@
-## My Google App Engine with Django Scaffold
+## Google App Engine with Django Scaffold
 
 A scaffold for building Python applications on Google App Engine with Django framework (version 1.5).  
 Following are the features.
