@@ -1,6 +1,7 @@
-## Google App Engine with Django Scaffold
+Google App Engine with Django Starter
+=====================================
 
-A scaffold for building Python applications on Google App Engine with Django framework (version 1.5).  
+A starter for building Python applications on Google App Engine with Django framework (version 1.5).  
 Following are the features.
 
 - Using [zc.buildout](http://www.buildout.org/en/latest/) for managing packages
