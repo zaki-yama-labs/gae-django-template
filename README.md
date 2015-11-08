@@ -1,5 +1,5 @@
-Google App Engine with Django Starter
-=====================================
+Google App Engine with Django Template
+======================================
 
 A starter for building Python applications on Google App Engine with Django framework (version 1.5).  
 Following are the features.
